@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <title>Tribute page: Travis Bickle</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+<main id="main">
+  <h1 id="title">Travis Bickle</h1>
+  <h2 id="tribute-info">The heroe we all need</h2>
+  <div id="img-div">
+    <img id="image" src="https://imagenes.20minutos.es/files/og_thumbnail/uploads/imagenes/2018/10/19/travisbickle_robert-de-niro_taxi-driver.jpg"/>
+    <figcaption id="img-caption">A former US Marine Corp soldier who became a taxi driver</figcaption>
+    </div>
+    <section id="headline">
+      <h3 id="journal-info">Henry Krinkle´s journal entries</h3>
+    <article class="journal"><p class="date">MAY 10, 1976</p><p class="entry">Thank God for the rain which has helped wash away the garbage and trash off the sidewalks. I'm workin' long hours now, six in the afternoon to six in the morning. Sometimes even eight in the morning, six days a week. Sometimes seven days a week. It's a long hustle but it keeps me real busy.</p></article>
+    <article class="journal"><p class="date">MAY 26, 1976</p><p class="entry">Four o'clock p.m. I took Betsy to Charles Coffee Shop on Columbus Circle. I had black coffee and apple pie with a slice of melted yellow cheese. I think that was a good selection. Betsy had coffee and a fruit salad dish. She could have had anything she wanted.</p></article>
+    <article class="journal"><p class="date">JUN 8, 1976</p><p class="entry">My life has taken another turn again. The days move along with regularity, over and over... And suddenly... there is change.</p></article>
+    <article class="journal"><p class="date">JUN 29, 1976</p><p class="entry">I gotta get in shape now. Too much sittin' is ruinin' my body. Too much abuse has gone on for too long. From now on, it will be fifty push-ups each morning, fifty pull-ups. There'll be no more pills, there'll be no more bad food, no more destroyers of my body. From now on, it will be total organization. Every muscle must be tight.</p></article>
+    <article class="journal"><p class="date">JUL 1, 1976</p><p class="entry">Dear Father and Mother: July is the month I remember which brings not only your wedding anniversary but also your birthdays. I'm sorry I can't remember the exact dates, but I hope this card will take care of them all. I'm sorry again I cannot send you my address like I promised to last year. But the sensitive nature of my work for the government demands utmost secrecy. I have been going with a girl for several months. Her name is Betsy. I hope no one has died. Love Travis.</p></article>
+    </section>
+  <a href="https://villains.fandom.com/wiki/Travis_Bickle" id="tribute-link" target="_blank">For more information about our beloved heroe</a>
+</main>
+</html>
