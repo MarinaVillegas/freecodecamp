@@ -1,6 +1,7 @@
 :root {
-  --color-green: #A5F99E;
-  --color-salmon: #F8AE97;
+  --color-green: #568961;
+  --color-pink: #F8A1B8;
+  --color-purple: #DF97F8;
 }
 html {
 background-image:
