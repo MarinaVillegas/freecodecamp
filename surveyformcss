@@ -1,0 +1,37 @@
+:root {
+  --color-green: #A5F99E;
+  --color-salmon: #F8AE97;
+}
+html {
+background-image:
+    url(https://images.unsplash.com/photo-1664575198263-269a022d6e14?ixlib=rb-1.2.1&ixid=MnwxMjA3fDF8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+body {
+  font-family: Garamond, sans-serif;
+  font-size: 2rem;
+  color: var(--color-green);
+}
+h1 {
+  color: var(--color-green);
+  font-weight: bold;
+}
+form {
+  background: var(--color-green);
+   padding: 2rem 1rem;
+  border-radius: 0.25rem;
+  color: var(--color-salmon);
+}
+
+@media (min-width: 480px) {
+  form {
+    padding: 2.5rem;
+  }
+}
+.form-group {
+  margin: 0 auto 1.25rem auto;
+  padding: 0.25rem;
+}
+
